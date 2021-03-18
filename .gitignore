@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# JMB says so
+test
+build
